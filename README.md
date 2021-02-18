@@ -9,6 +9,8 @@ I'm a passionate, creative and perceptive Software Developer with a hands-on app
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-Flexbox-informational?style=flat&logo=flexbox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AJAX-informational?style=flat&logo=ajax&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
