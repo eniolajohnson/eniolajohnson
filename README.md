@@ -32,7 +32,7 @@ I'm a passionate, creative and perceptive Software Developer with a hands-on app
 ![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniolajohnson&show_icons=true&hide_title=true)
 
 ## 💡 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eniolajohnson&repo=ajax-project)](https://github.com/eniolajohnson/ajax-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eniolajohnson&repo=quizlee)](https://eniolajohnson.github.io/quizlee/)
 
 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](eeniolajohnson@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/eniolajohnson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/linkedin.com/in/eniola-e-johnson//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20' backgroundcolor='blue'>](https://twitter.com/@ernieberniee)
 
