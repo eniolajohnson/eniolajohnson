@@ -36,6 +36,8 @@ I'm a passionate, creative and perceptive Software Developer with a hands-on app
 
 :link: https://eniolajohnson.github.io/quizlee
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eniolajohnson&repo=perfect-pepper)](https://github.com/eniolajohnson/perfect-pepper)
+
 ## 	:toolbox: Resume
 :link: https://eniolajohnson.github.io/resume/
 
