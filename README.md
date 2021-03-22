@@ -41,7 +41,7 @@ I'm a passionate, creative and perceptive Software Developer with a hands-on app
 :link: https://perfect-pepper.herokuapp.com
 
 ## 	:toolbox: Resume
-:link: https://eniolajohnson.github.io/resume/
+:link: [(https://eniolajohnson.github.io/resume/)](https://github.com/Learning-Fuze/portfolio_guidelines/blob/master/requirement_details/github_profile/profile_readme.md#applications)
 
 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](eeniolajohnson@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/eniolajohnson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/linkedin.com/in/eniola-e-johnson//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20' backgroundcolor='blue'>](https://twitter.com/@ernieberniee)
 
